@@ -26,6 +26,6 @@
 	},
 	"devDependencies": {
 		"vscode": "0.10.x"
-	}
+	},
 	"homepage": "https://github.com/"
 }
