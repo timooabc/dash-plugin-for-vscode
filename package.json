@@ -27,5 +27,9 @@
 	"devDependencies": {
 		"vscode": "0.10.x"
 	},
-	"homepage": "https://github.com/"
+	"homepage": "https://github.com/timooabc/dash-plugin-for-vscode/master/README.md",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/timooabc/dash-plugin-for-vscode.git"
+	}
 }
